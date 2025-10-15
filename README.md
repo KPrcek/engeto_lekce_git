@@ -17,3 +17,5 @@ git commit -m "pridani souboru" - #přidání commitu
 
 
 test git pull
+test git commit bez zpravy
+
