@@ -14,3 +14,6 @@ git push
 git add .
 
 git commit -m "pridani souboru" - #přidání commitu
+
+
+test git pull
