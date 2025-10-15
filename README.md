@@ -12,3 +12,5 @@ git commit -m "muj prvni commit"
 git push
 
 git add .
+
+git commit -m "pridani souboru" - #přidání commitu
