@@ -19,3 +19,11 @@ git commit -m "pridani souboru" - #přidání commitu
 test git pull
 test git commit bez zpravy
 
+git branch
+git branch -r #podívám se jaké mám branche
+git branch - a
+git fetch
+git branch -m jmeno branche
+git branch -a
+
+test pull request
