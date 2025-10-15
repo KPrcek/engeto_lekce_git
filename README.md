@@ -8,3 +8,7 @@ git config --global user.name ""
 git config --global user.email ""
 git status
 git diff
+git commit -m "muj prvni commit"
+git push
+
+git add .
